@@ -1,8 +1,4 @@
-# Realtime Chat
-
-This is a realtime chat built with Go, Next, and Typescript.
-
-The tutorial is available [here](https://www.youtube.com/watch?v=W9SuX9c40s8)
+# Realtime Go Based Websocket server
 
 ## Hub Architecture
 
